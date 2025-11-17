@@ -730,6 +730,8 @@ github.com/go-openapi/jsonpointer v0.22.1 h1:sHYI1He3b9NqJ4wXLoJDKmUmHkWy/L7rtEo
 github.com/go-openapi/jsonpointer v0.22.1/go.mod h1:pQT9OsLkfz1yWoMgYFy4x3U5GY5nUlsOn1qSBH5MkCM=
 github.com/go-openapi/jsonpointer v0.22.2 h1:JDQEe4B9j6K3tQ7HQQTZfjR59IURhjjLxet2FB4KHyg=
 github.com/go-openapi/jsonpointer v0.22.2/go.mod h1:0lBbqeRsQ5lIanv3LHZBrmRGHLHcQoOXQnf88fHlGWo=
+github.com/go-openapi/jsonpointer v0.22.3 h1:dKMwfV4fmt6Ah90zloTbUKWMD+0he+12XYAsPotrkn8=
+github.com/go-openapi/jsonpointer v0.22.3/go.mod h1:0lBbqeRsQ5lIanv3LHZBrmRGHLHcQoOXQnf88fHlGWo=
 github.com/go-openapi/swag v0.19.5/go.mod h1:POnQmlKehdgb5mhVOsnJFsivZCEZ/vjK9gh66Z9tfKk=
 github.com/go-openapi/swag/jsonname v0.24.0 h1:2wKS9bgRV/xB8c62Qg16w4AUiIrqqiniJFtZGi3dg5k=
 github.com/go-openapi/swag/jsonname v0.24.0/go.mod h1:GXqrPzGJe611P7LG4QB9JKPtUZ7flE4DOVechNaDd7Q=
