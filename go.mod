@@ -2,7 +2,7 @@ module knot8.io
 
 go 1.24.6
 
-toolchain go1.24.11
+toolchain go1.25.5
 
 require (
 	github.com/alecthomas/kong v1.9.0
