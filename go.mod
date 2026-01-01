@@ -5,7 +5,7 @@ go 1.24.6
 toolchain go1.24.11
 
 require (
-	github.com/alecthomas/kong v1.9.0
+	github.com/alecthomas/kong v1.13.0
 	github.com/go-openapi/jsonpointer v0.22.4
 	github.com/google/go-jsonnet v0.21.0
 	github.com/hashicorp/go-getter v1.8.4
