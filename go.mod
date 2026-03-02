@@ -6,7 +6,7 @@ toolchain go1.24.11
 
 require (
 	github.com/alecthomas/kong v1.14.0
-	github.com/go-openapi/jsonpointer v0.22.4
+	github.com/go-openapi/jsonpointer v0.22.5
 	github.com/google/go-jsonnet v0.21.0
 	github.com/hashicorp/go-getter v1.8.4
 	github.com/hashicorp/go-getter/v2 v2.2.3
@@ -60,7 +60,7 @@ require (
 	github.com/go-jose/go-jose/v4 v4.1.2 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/go-openapi/swag/jsonname v0.25.4 // indirect
+	github.com/go-openapi/swag/jsonname v0.25.5 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
