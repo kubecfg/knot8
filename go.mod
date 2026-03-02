@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/kong v1.14.0
 	github.com/go-openapi/jsonpointer v0.22.5
 	github.com/google/go-jsonnet v0.21.0
-	github.com/hashicorp/go-getter v1.8.4
+	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/hashicorp/go-getter/v2 v2.2.3
 	github.com/mattn/go-isatty v0.0.20
 	github.com/pelletier/go-toml v1.9.5
